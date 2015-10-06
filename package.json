@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./node_modules/webpack/bin/webpack.js --display-error-details && node sysjsbuild.js && node sysjsbuild.sfx.js"
   },
   "repository": {
     "type": "git",
