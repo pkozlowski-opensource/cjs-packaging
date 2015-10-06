@@ -1,0 +1,23 @@
+{
+  "name": "cjs-packaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkozlowski-opensource/cjs-packaging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkozlowski-opensource/cjs-packaging/issues"
+  },
+  "homepage": "https://github.com/pkozlowski-opensource/cjs-packaging#readme",
+  "devDependencies": {
+    "systemjs-builder": "^0.14.7",
+    "webpack": "^1.12.2"
+  }
+}
