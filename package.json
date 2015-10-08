@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pkozlowski-opensource/cjs-packaging#readme",
   "devDependencies": {
-    "systemjs-builder": "^0.14.7",
+    "systemjs-builder": "^0.14.8",
     "webpack": "^1.12.2"
   }
 }
