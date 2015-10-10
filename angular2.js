@@ -5,5 +5,6 @@ module.exports = {
         console.log('Calling bootstrap');
         //I'm bootstrap using facade
         return isPresent(true);
-    }
+    },
+    sthPublic: 'FooBar'
 };

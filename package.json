@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/webpack/bin/webpack.js --display-error-details && node sysjsbuild.js && node sysjsbuild.sfx.js"
+    "start": "./node_modules/webpack/bin/webpack.js --config webpack.angular2.js --display-error-details && ./node_modules/webpack/bin/webpack.js --config webpack.http.js --display-error-details"
   },
   "repository": {
     "type": "git",
